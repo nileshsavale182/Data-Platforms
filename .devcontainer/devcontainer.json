@@ -1,0 +1,17 @@
+{
+  "name": "Data Engineering Platform",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-azuretools.vscode-docker",
+        "GitHub.copilot",
+        "charliermarsh.ruff",
+        "ms-python.black-formatter"
+      ]
+    }
+  }
+}
