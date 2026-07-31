@@ -1,0 +1,12 @@
+pyspark
+duckdb
+dbt-duckdb
+apache-airflow
+pandas
+pyarrow
+polars
+faker
+pytest
+black
+ruff
+pre-commit
